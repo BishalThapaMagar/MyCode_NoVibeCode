@@ -1,0 +1,2 @@
+plyer
+pyinstaller # if you want to make .exe
